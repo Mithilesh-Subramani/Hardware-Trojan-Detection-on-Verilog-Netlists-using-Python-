@@ -48,6 +48,8 @@ pip install -r requirements.txt
 ---
 
 ## How to Run
+-you will have to keep all files off the folders that ive made and then keep them all in a single folder and then run the following 2 commands
+-once thats then you willl have to put certain files into certain structred folder like the ones ive uploaded n then execeute the last command 
 
 ### Run single file:
 
