@@ -29,15 +29,14 @@ This project implements a Python-based system to detect **hardware Trojans** in 
 
 ##  Project Structure
 
-
+```bash
 hardware-trojan-detection/
 ├── trojan_detector.py
 ├── netlists/
 ├── tests/
 ├── results/
 └── requirements.txt
-
-
+```
 ---
 
 ## Installation
